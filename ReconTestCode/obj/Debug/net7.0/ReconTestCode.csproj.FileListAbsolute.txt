@@ -1,0 +1,7 @@
+C:\Users\17733\Desktop\xiaoshuo\Code Test\ReconTestCode\obj\Debug\net7.0\ReconTestCode.csproj.AssemblyReference.cache
+C:\Users\17733\Desktop\xiaoshuo\Code Test\ReconTestCode\obj\Debug\net7.0\ReconTestCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17733\Desktop\xiaoshuo\Code Test\ReconTestCode\obj\Debug\net7.0\ReconTestCode.AssemblyInfoInputs.cache
+C:\Users\17733\Desktop\xiaoshuo\Code Test\ReconTestCode\obj\Debug\net7.0\ReconTestCode.AssemblyInfo.cs
+C:\Users\17733\Desktop\xiaoshuo\Code Test\ReconTestCode\obj\Debug\net7.0\ReconTestCode.csproj.CoreCompileInputs.cache
+C:\Users\17733\Desktop\xiaoshuo\Code Test\ReconTestCode\obj\Debug\net7.0\ReconTestCode.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\17733\Desktop\xiaoshuo\Code Test\ReconTestCode\obj\Debug\net7.0\ReconTestCode.MvcApplicationPartsAssemblyInfo.cache
